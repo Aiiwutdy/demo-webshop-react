@@ -1,4 +1,4 @@
-# Website Shop ( Responsive )
+# Website Shop ( Responsive Demo )
 This project is an online store website related to selling and promoting products. It is designed as a website that will display a list of products to users.
 
 Tech Stack
